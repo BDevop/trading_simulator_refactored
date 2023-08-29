@@ -1,4 +1,4 @@
-# trading_simulator_refactored
+# Trading Simulator Refactored
 Refactored the original trading simulator written in Java. Arrays were converted into dictionaries for easier access, and better control flow statements were made possible due to this change.
 
 REPLIT LINK:
